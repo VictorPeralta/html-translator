@@ -1,0 +1,4 @@
+# Saved translated pages
+*.html
+
+node_modules/
